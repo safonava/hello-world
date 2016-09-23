@@ -1,2 +1,5 @@
 # hello-world
-jquery project
+
+Hi, there!
+
+whoa
